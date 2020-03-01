@@ -4,9 +4,9 @@ import { Button, makeStyles } from "@material-ui/core";
 const useStyles = makeStyles({
   button: {
     backgroundColor: "#00EEC4",
-    color: "#000000",
     width: "100%",
     height: "100%",
+    fontWeight: 800,
   },
 });
 
