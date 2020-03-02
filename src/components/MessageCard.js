@@ -39,7 +39,7 @@ export const MessageCard = ({ messageParams, handleClearMessage }) => {
             <Typography>{messageParams.message}</Typography>
           </Grid>
           <Grid item xs={3}>
-            <Button onClick={onClearClick}>Clear</Button>
+            <Button onClick={onClearClick}>CLEAR</Button>
           </Grid>
         </Grid>
       </Box>
